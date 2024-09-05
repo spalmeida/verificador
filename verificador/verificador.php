@@ -3,7 +3,7 @@
 Plugin Name: Verificador de Versão - Plugins e Temas
 Plugin URI: https://github.com/spalmeida/verificador
 Description: Retorna uma tabela com a versão atual e a última versão dos plugins e temas (ativos e inativos), destacando diferenças de versão. Somente administradores podem acessar e verificar as atualizações diretamente do GitHub.
-Version: 1.0.0
+Version: 1.0.1
 Author: Samuel Almeida
 Author URI: https://github.com/spalmeida
 */
