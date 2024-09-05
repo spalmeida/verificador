@@ -144,7 +144,7 @@ function pt_verificador_version_output() {
     // Lista de plugins
     $all_plugins = get_plugins();
     $updates = pt_get_available_updates();
-    echo '<h2>Plugins</h2>';
+    echo '<h2>Plugins teste</h2>';
     echo '<table class="table table-bordered">';
     echo '<thead><tr><th>Nome</th><th>Versão Atual</th><th>Última Versão</th></tr></thead><tbody>';
     foreach ( $all_plugins as $plugin_file => $plugin_data ) {
