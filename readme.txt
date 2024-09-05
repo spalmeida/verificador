@@ -3,7 +3,7 @@ Contributors: Samuel Almeida
 Tags: github, updates, version control, plugins, themes
 Requires at least: 5.0
 Tested up to: 6.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 == Descrição ==
@@ -17,5 +17,5 @@ Este plugin retorna uma tabela com a versão atual e a última versão dos plugi
 Este plugin verifica e atualiza diretamente do GitHub. Use a versão mais recente no repositório GitHub.
 
 == Changelog ==
-= 1.0.0 =
+= 1.0.1 =
 * Primeira versão do plugin com verificação de atualizações via GitHub.
